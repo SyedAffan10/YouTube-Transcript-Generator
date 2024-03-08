@@ -35,9 +35,3 @@ streamlit run app.py
 - Python > 3.8
 - Streamlit
 - youtube_transcript_api
-
-You can install the necessary Python packages using the `requirements.txt` file:
-
-```bash
-pip install -r requirements.txt
-```
