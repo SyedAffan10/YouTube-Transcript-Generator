@@ -32,6 +32,6 @@ streamlit run app.py
 
 ## Requirements
 
-- Python > 3.8
+- Python >= 3.8
 - Streamlit
 - youtube_transcript_api
